@@ -1,2 +1,2 @@
-# ta_training_java
+# ta_training-java
 my way to epam
